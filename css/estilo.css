@@ -1,0 +1,185 @@
+
+html{
+  position: relative;
+  background-size:100%;
+  min-height: 100%;}
+
+body {
+  position: relative;
+  min-height: 100%;
+  background-repeat:no-repeat;}
+
+  
+#title{
+  position: relative;
+  top:10px;
+  text-align:center;  
+  font-weight: bold;
+  font-family:  Courier New, da família Courier  ;
+  color:white;
+  background-color: black;
+  background-size: 10vh;
+  border-radius: 15px;
+  height: 45px;
+  opacity: 0.8;}
+
+  #inicial{
+    position:absolute;
+    background-image: url(img/blog7.png);
+    background-color: #293684;
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+
+  #balunos{
+    position: absolute;
+    background-image: url(img/alunos.jpg);
+    background-color: #293684;
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+  #bacessos{
+    position: absolute;
+    background-image: url(img/acessos.jpg);
+    background-color: #293684;
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+  #bmaterias{
+    position: absolute;
+    background-image: url(img/materia.jpg);
+    background-color: #293684;
+    background-size:auto;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+  #bmatricula{
+    position: absolute;
+    background-image: url(img/matricula.png);
+    background-color: #293684;
+    background-size:100%;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+  #bavaliacao{
+    position: absolute;
+    background-image: url(img/avaliacao.png);
+    background-color: #708cfc;
+    background-size:center;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+  #bnotas{
+    position: absolute;
+    background-image: url(img/notas.jpg);
+    background-color: #188c9c;
+    background-size:contain;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+  }
+
+  h1,h2,h3,h4{    
+  font-family:  Courier New, da família Courier  ;
+  font-size: 100%;
+  text-align: center;
+  color:white;
+  text-shadow: 2px 2px black;
+  }
+
+
+#alunos{
+  color:white;  
+  position:relative;}
+
+#materia{
+  color:white;  
+  position:relative;}
+
+#matricula{
+  color:white;  
+  position:relative;}
+
+#header{  
+  position:relative;
+  width: 100%;
+  text-align: center;
+  size-adjust: auto;}
+
+  .pfooter{   
+    position: absolute;
+    color: white;
+    text-align: center;
+    bottom: 0px;
+    left:0;
+    width: 100%;}  
+  
+    .pfooter section{    
+    background-color: rgba(0,0,0,0.5);
+    }
+    
+
+#fcad{
+  position: relative;
+  top: 10px;
+  text-align: center;
+  color: white;
+  font-family:  Courier New, da família Courier  ;
+  position:relative;}
+
+#acessos{
+  position: relative;
+  color:white;
+  opacity: 0.9;}
+  
+#notas{
+    position: relative;
+    color:white;
+    opacity: 0.9;}
+    
+#alunos{
+  position: relative;
+  top: 80px;
+  opacity: 0.9;}
+  
+#materias{
+  position: relative;
+  top: 50px;
+  opacity: 0.9;}
+  
+#avaliacoes{
+  position: relative;
+  top:0px;
+  opacity: 0.9;}
+
+#syss{
+  text-align: center;
+  color: #687be9;
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+  .pfooter{   
+  position: relative;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 2px 2px black;
+  bottom: 0px;
+  left:0;
+  width: 100%;}  
+
+  .pfooter section{    
+  background-color: rgba(0,0,0,0.5);
+  }
+  
